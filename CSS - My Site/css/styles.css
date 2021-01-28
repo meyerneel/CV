@@ -1,0 +1,148 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+  .btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Merienda;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 10px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 40PX;
+
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Merienda', cursive;
+  color: #11999E;
+
+
+}
+
+h2 {
+  font-family: 'Merienda', cursive;
+  color: #66BFBF;
+
+}
+hr{
+  border-style: dotted;
+  width: 5%;
+  height: 5px;
+  border-color: grey;
+  border-width: 5px 0 0 0;
+  margin:100px auto;
+}
+p{
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #40514E;
+  line-height: 2;
+
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding: 10px;
+  text-decoration:none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+
+
+/**********Label Tags***********/
+.top-container {
+  position: relative;
+  line-height: 2;
+  background-color: #EAF6F6;
+  padding-top: 100px;
+
+}
+.programmer{
+  font-weight: normal;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+.bottom-container {
+  background-color:  #66BFBF;
+  padding:50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.butt{
+  width: 25%;
+  border-radius: 30px;
+
+  }
+.soft-skills{
+  border-radius: 30px;
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+
+}
+.computer{
+  border-radius: 30px;
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+
+
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto;
+text-align: left;
+}
+.copyright{
+  font-size: 8;
+}
+.intro {
+width: 30%;
+margin: auto;
+}
+
+.contact-message {
+  width: 30%;
+  margin: 100px auto;
+}
+
+/*****************ID TAGS**************/
